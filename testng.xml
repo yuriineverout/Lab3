@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="labWork 3_1" verbose="1" >
+  <test name="Test" >
+    <classes>
+       <class name="baseTest" />
+       <class name="checkbox" />
+       <class name="checkFollowingMessages" />
+       <class name="simple_Form_Demo_Test" />
+       <class name="test6" />
+       <class name="test7" />
+       <class name="Total" />
+    </classes>
+  </test>
+
+</suite>
